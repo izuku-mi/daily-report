@@ -1,0 +1,14 @@
+{
+  "name": "Jana Priya Wines - Daily Report",
+  "short_name": "Daily Report",
+  "description": "Daily stock, sales, cash, and expense ledger",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8f4",
+  "theme_color": "#7a1f3d",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
